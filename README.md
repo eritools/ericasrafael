@@ -1,7 +1,8 @@
  Oi, meu nome é Ana Erica, how are you ? 😀
 - Hodiernamente, dedico-me ao Desenvolvimento Web e Web full Stack ! ❤️
 - Sou estudante de Engenharia, por conta disto, possuo interesses mútuos por outras tecnologias, como o CAD ! 🔥
-- Javascript, TypeScript, HTML, CSS, Phyton, PHP, C/C++/C#, .NET, Ruby, Angular, Java ,React, Bootstrap ! 🔥
+- Pronous: Ele / Ela / Elu!💋
+- Javascript, TypeScript, HTML, CSS, Phyton, PHP, C / C ++ / C #, .NET, Ruby, Angular, Java, React, Bootstrap! 🔥
 
 <div align="center">
     <a href="https://github.com/ericasrafael">
