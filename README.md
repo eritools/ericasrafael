@@ -1,12 +1,16 @@
- Oi, meu nome é Ana Erica, how are you ? 😀
+ <h1 align="center"><b>Hi, I'm Erica! how are you ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+
 - Hodiernamente, dedico-me ao Desenvolvimento Web e Web full Stack ! ❤️
 - Sou estudante de Engenharia, por conta disto, possuo interesses mútuos por outras tecnologias, como o CAD ! 🔥
 - Pronous: Ele / Ela / Elu!💋
 - Javascript, TypeScript, HTML, CSS, Phyton, PHP, C / C ++ / C #, .NET, Ruby, Angular, Java, React, Bootstrap! 🔥
 
+##
+<br>
+
 <div align="center">
     <a href="https://github.com/ericasrafael">
-      <img align="hight" height="180" style="border-radius: 50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_k0LLCBqW.png">
+      <img height="180" style="border-radius: 50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_k0LLCBqW.png">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericasrafael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasrafael&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -26,6 +30,7 @@
   </div>
   
   ##
+ 
   <div align="center">
       <a href="https://www.linkedin.com/in/ericasrafael/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://www.instagram.com/ericasrafael/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
