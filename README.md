@@ -43,4 +43,4 @@
   
 ![funny-anime-gif-14](https://user-images.githubusercontent.com/91800929/137725479-667abb45-e06b-48a7-b820-e4ce8d5778ef.gif)
   </div>
-![Snake animation](https://github.com/ericasrafael/ericasrafael/blob/output/github-contribution-grid-snake.svg)
+
