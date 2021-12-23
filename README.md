@@ -3,7 +3,7 @@
 - Hodiernamente, dedico-me ao Desenvolvimento Web e Web full Stack ! ❤️
 - Sou estudante de Engenharia, por conta disto, possuo interesses mútuos por outras tecnologias, como o CAD ! 🔥
 - Pronous: Ele / Ela / Elu!💋
-- Javascript, TypeScript, HTML, CSS, Phyton, PHP, C / C ++ / C #, .NET, Ruby, Angular, Java, React, Bootstrap! 🔥
+- Javascript, HTML, CSS, Phyton, Java, React, Bootstrap! 🔥
 
 ##
 <br>
