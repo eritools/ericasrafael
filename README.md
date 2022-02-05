@@ -3,19 +3,8 @@
 - Data Science ✔️
 - Estudante de Engenharia ✔️
 - Pronous: Ele / Ela / Elu ✔️
-
 ## Skills 👩‍💻
-
-* 🐍 Python.
-* 📈 R.
-* 🗄 SQL.
-* 💻 SAS.
-* 🧮 Power BI.
-* 🔮 Machine Learning. 
-* 📊 Data Visualization
-* 🧪 Survival Analysis.
-
-
+* 🐍 Python. * 📈 R. * 🗄 SQL. * 💻 SAS. * 🧮 Power BI. * 🔮 Machine Learning.  * 📊 Data Visualization * 🧪 Survival Analysis.
 ##
 <br>
 
