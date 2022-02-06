@@ -1,4 +1,4 @@
- <h1 align="center"><b>Hi, I'm Erica! how are you ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+ <h1 align="left"><b>Hi, I'm Erica! how are you ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 
 - Data Science ✔️
 - Estudante de Engenharia ✔️
@@ -10,9 +10,9 @@
 
 <div align="center">
     <a href="https://github.com/ericasrafael">
-      <img height="180" style="border-radius: 50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_k0LLCBqW.png">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericasrafael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasrafael&layout=compact&langs_count=7&theme=radical"/>
+      <img height="180em" style="border-radius: 50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/338224_k0LLCBqW.png">
+     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ericasrafael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasrafael&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div align="center" style="display: inline-block;"> <br>
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
