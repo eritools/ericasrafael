@@ -16,9 +16,9 @@
 ##
 <br>
 <div align="center">
-     <a href="https://github.com/ericasrafael">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericasrafael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasrafael&layout=compact&langs_count=7&theme=radical"/>
+     <a href="https://github.com/eritools">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eritools&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eritools&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div align="center" style="display: inline-block;"> <br>
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
