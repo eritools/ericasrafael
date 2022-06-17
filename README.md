@@ -1,4 +1,4 @@
- <h2 align="left"><b>Hi, I'm Erica! how are you ?</b></h2>😃😄
+ <h2 align="left"><b>Hi, I'm Erica! how are you ? 😃😄</b></h2>
 
 - Estudante de Ciência de Dados ✔️
 - Estudante de Engenharia ✔️
