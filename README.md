@@ -36,6 +36,7 @@
  <br>
  <div align="center">
   
-![funny-anime-gif-14](https://user-images.githubusercontent.com/91800929/137725479-667abb45-e06b-48a7-b820-e4ce8d5778ef.gif)
+![yoda](https://user-images.githubusercontent.com/91800929/176006796-249dc227-33d1-4c29-b6f5-8c742495baa6.png)
+
   </div>
 
