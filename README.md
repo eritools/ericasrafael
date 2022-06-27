@@ -1,3 +1,9 @@
+  <div align="center">
+  
+![yoda](https://user-images.githubusercontent.com/91800929/176017271-c22096a0-b64a-4bc3-bc89-5c0e393ad2ca.png)
+
+  </div>
+ 
  <h2 align="left"><b>Hi, I'm Erica! how are you ? 😃😄</b></h2>
 
 - Estudante de Ciência de Dados ✔️
@@ -33,11 +39,5 @@
      <a href="https://www.instagram.com/ericxrafael/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    
    </div>
- <br>
- <div align="center">
-  
-![yoda](https://user-images.githubusercontent.com/91800929/176017271-c22096a0-b64a-4bc3-bc89-5c0e393ad2ca.png)
-
-
-  </div>
+ 
 
