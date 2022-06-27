@@ -36,7 +36,7 @@
  <br>
  <div align="center">
   
-![yoda](https://user-images.githubusercontent.com/91800929/176006796-249dc227-33d1-4c29-b6f5-8c742495baa6.png)
+![yoda](http://www.asciify.net/ascii/ascii/6403)
 
   </div>
 
