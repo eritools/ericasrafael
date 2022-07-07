@@ -8,6 +8,7 @@
 * 🐍 Python. 
 * 🗄 SQL. 
 * 🧮 Power BI. 
+* 📈 Tableau.
 * 🔮 Machine Learning.  
 * 📊 Data Visualization 
 * 🧪 Survival Analysis.
