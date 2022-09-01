@@ -2,7 +2,7 @@
 
 - Estudante de Ciência de Dados ✔️
 - Estudante de Engenharia ✔️
-- Pronous: Ele / Ela / Elu ✔️
+- Pronous: Ela / She ✔️
 ## Skills 👩‍💻
 🐍 Python - 🗄 SQL - 🧮 Power BI - 📈 Tableau - 🔮 Machine Learning - 📊 Data Visualization - 🧪 Survival Analysis
 ##
