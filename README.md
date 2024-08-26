@@ -4,7 +4,7 @@
 - Estudante de Engenharia ✔️
 - Pronous: Ela / She ✔️
 ## Skills 👩‍💻
-🐍 Python - 🗄 SQL - 🧮 Power BI - 📈 Tableau - 🔮 Machine Learning - 📊 Data Visualization - 🧪 Survival Analysis
+🐍 Python - 🗄 SQL - 🧮 Power BI - 📈 Tableau - 📊 Data Visualization 
 ##
  <h2 align="left"><b>Meet me: 📲💻</b></h2>
   <div align="center">
