@@ -1,6 +1,6 @@
  <h4 align="left"><b>Hi, I'm Erica! how are you ? 😃😄</b></h4>
 
-- Data Engineer ✔️
+- Data Engineer / Data Analyst ✔️
 - Pronous: Ela / She ✔️
 ##
  <h4 align="left"><b>Meet me: 📲💻</b></h4>
